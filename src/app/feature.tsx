@@ -53,7 +53,7 @@ export function Features() {
           variant="lead"
           className="mx-auto w-full px-4 !text-gray-500 lg:w-11/12 lg:px-8 "
         >
-          A community-driven platform where everyone's opinion matters. 
+          A community-driven platform where everyone&apos;s opinion matters. 
           Rank your favorites, discover new choices, and have fun with rankings and discussions. 
           Compare your preferences with the most popular choices in the community!
         </Typography>

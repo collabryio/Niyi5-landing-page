@@ -90,8 +90,8 @@ function Hero() {
             variant="paragraph"
             className="font-normal !text-gray-500 lg:w-5/12"
           >
-            Join a vibrant community where everyone's opinion matters! Rank your favorites, 
-            discover new gems, and see what the community loves most. Whether it's movies, 
+            Join a vibrant community where everyone&apos;s opinion matters! Rank your favorites, 
+            discover new gems, and see what the community loves most. Whether it&apos;s movies, 
             books, restaurants, or tech gadgets - find the top 5 in every category.
           </Typography>
         </div>
